@@ -32,6 +32,6 @@ Output: 81 <br>
 
 ### Code
 
-[Area of Square](01-area-of-square\area_of_square.c)
+[Area of Square](area_of_square.c)
 
 ---
