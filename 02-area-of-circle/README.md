@@ -6,10 +6,10 @@ Write a program to calculate the area of a circle whose radius is given.
 ---
 
 ### Input
-A single line containing a floating value N.
+A single integer R representing the radius of circle.
 
 ### Output
-A single line containing area of circle N.
+Print a single integer - the area of circle with radius R.
 
 ---
 
