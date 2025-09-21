@@ -6,10 +6,10 @@ Write a program to calculate the area of a square whose side is given.
 ---
 
 ### Input
-A single line containing an integer N.
+A single integer N representing the side of square.
 
 ### Output
-A single line containing area of square N.
+Print a single integer - the area of square with side N.
 
 ---
 

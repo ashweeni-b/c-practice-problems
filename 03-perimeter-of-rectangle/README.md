@@ -6,10 +6,10 @@ Write a program to calculate perimeter of rectangle. Take sides, a & b, from the
 ---
 
 ### Input
-A single line containing sides a and b.
+Two integers a and b representing the sides of rectangle.
 
 ### Output
-A single line containing perimeter of rectangle N.
+Print a single integer - the area of rectangle with sides a and b.
 
 ---
 
@@ -32,6 +32,6 @@ Output: 16 <br>
 
 ### Code
 
-[Perimeter of Square](perimeter_of_rectangle.c)
+[Perimeter of Rectangle](perimeter_of_rectangle.c)
 
 ---
