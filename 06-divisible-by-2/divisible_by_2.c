@@ -1,4 +1,4 @@
-// Program: Divisible by 2 using operators
+// Program: Divisible by 2
 
 // Logic: If N % 2 == 0, output 1 or else 0
 

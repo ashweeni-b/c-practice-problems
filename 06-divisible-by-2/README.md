@@ -1,7 +1,7 @@
-## Divisible by 2
+## Divisible by 2 
 
 ### Problem Statement
-Take a number (n) from user and output whether it is divisible by 2 or not.
+Take a number (N) from user and output whether it is divisible by 2 or not.
 
 ---
 
@@ -23,7 +23,7 @@ Output: 0 <br>
 
 ---
 
-### Algorithm (Approach 1)
+### Algorithm 
 1. Input `N`.
 2. Check if `N` is divisible by 2 or not - `N % 2 == 0`.
 3. If `N` is divisible by 2 output `1` otherwise `0`.
@@ -32,6 +32,6 @@ Output: 0 <br>
 
 ### Code
 
-[Divisibile by 2 with operators](divisible_by_2_with_operators.c)
+[Divisibile by 2](divisible_by_2_with_operators.c)
 
 ---
