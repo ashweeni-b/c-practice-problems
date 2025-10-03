@@ -23,7 +23,7 @@ Output:
 0
 
 Input:
-Enter-character: 4
+Enter character: 4
 
 Output:
 1
