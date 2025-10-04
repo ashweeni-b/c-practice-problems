@@ -24,6 +24,8 @@ Problems are numbered for easy navigation.
 - [14-student-exam-status](14-student-exam-status/README.md): Checks if a student passes or fails
 - [15-marks-grading-system](15-marks-grading-system/README.md): Assigning marks with the grades
 - [16-character-case](16-character-case/README.md): Checks the case of the character
+- [17-armstrong-number](17-armstrong-number/README.md): Check if a number is an armstrong number or not
+- [18-natural-number](18-natural-number/README.md): Check if the number is a natural number or not
 
 ---
 
