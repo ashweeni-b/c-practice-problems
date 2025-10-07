@@ -26,5 +26,7 @@ Prints the numbers on new line
 
 [Printing numbers - 1 to 100](printing_1_to_100.c) - Printing numbers from 1 to 100 using for loop
 [Printing numbers - 0 to 10](printing_0_to_10.c) - Printing numbers from 0 to 10 using for loop 
+[Printing numbers - 1 to 5](printing_1_to_5.c) - Printing numbers from 1 to 5 using while loop
+[Printing numbers - 0 to n](printing_0_to_n.c) - Printing numbers from 0 to n using while loop, where n is given by the user
 
 ---

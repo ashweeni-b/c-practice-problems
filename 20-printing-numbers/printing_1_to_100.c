@@ -9,3 +9,8 @@ int main() {
 
     return 0;
 }
+
+/*
+Output:
+Numbers from 1 to 100 will be printed each on a new line
+*/
