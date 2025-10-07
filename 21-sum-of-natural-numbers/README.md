@@ -41,10 +41,10 @@ Sum of natural numbers: 15 <br>
 ### Algorithm 
 1. Input number `num`.
 2. Initialize `sum` to 0.
-2. Initialize `i` to `num`.
-3. Until `i >= 1`, print `i` and add the `i` to `sum`.
-4. Decrement `i` by 1.
-5. Finally print the value of `sum`.
+3. Initialize `i` to `num`.
+4. Until `i >= 1`, print `i` and add the `i` to `sum`.
+5. Decrement `i` by 1.
+6. Finally print the value of `sum`.
 
 ---
 
