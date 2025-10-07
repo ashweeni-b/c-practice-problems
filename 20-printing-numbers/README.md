@@ -1,12 +1,12 @@
 ## Printing numbers
 
 ### Problem Statement
-To print numbers from 1 to 100 using loops
+To print numbers using loops
 
 ---
 
 ### Input
-No input.
+No input. 
 
 ### Output 
 Prints the numbers on new line
