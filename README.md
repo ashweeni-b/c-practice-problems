@@ -26,6 +26,7 @@ Problems are numbered for easy navigation.
 - [16-character-case](16-character-case/README.md): Checks the case of the character
 - [17-armstrong-number](17-armstrong-number/README.md): Check if a number is an armstrong number or not
 - [18-natural-number](18-natural-number/README.md): Check if the number is a natural number or not
+- [19-maximum-of-three-numbers](19-maximum-of-three-numbers/README.md): Program to find the maximum among the three numbers
 
 ---
 
