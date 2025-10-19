@@ -19,3 +19,9 @@ void printHello() {
 void printGoodbye() {
     printf("Goodbye\n");
 }
+
+/*
+Output:
+Hello
+Goodbye
+*/
