@@ -10,7 +10,7 @@ i -> 1 to row, j -> 1 to column
 int main() {
     for(int i = 1; i <= 5; i++) {
         for(int j = 1; j <= 5; j++) {
-            printf("*\t");
+            printf("* ");
         }
         printf("\n");
     }
@@ -19,9 +19,9 @@ int main() {
 
 /*
 Output:
-*       *       *       *       *
-*       *       *       *       *
-*       *       *       *       *
-*       *       *       *       *
-*       *       *       *       *
+* * * * *
+* * * * *
+* * * * *
+* * * * *
+* * * * *
 */
