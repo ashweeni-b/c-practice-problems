@@ -8,7 +8,7 @@ Take a number (N) from user and output whether it is divisible by 2 or not.
 ### Input
 A single integer N representing the number whose divisibility by 2 needs to be checked.
 
-### Output Format 1
+### Output 
 Print 1 if divisible by 2 or 0 if not divisible by 2.
 
 ---

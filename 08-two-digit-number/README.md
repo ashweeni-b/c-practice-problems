@@ -1,13 +1,15 @@
 ## 2 digit number
 
 ### Problem Statement
+
 Take a number (number) from user and output whether it is a two-digit number or not.
+
 ---
 
 ### Input
 A single integer number.
 
-### Output Format 1
+### Output 
 Print 1 (true) if it is a two-digit number, otherwise print 0 (false).
 
 ---
@@ -26,7 +28,7 @@ Output: 0 <br>
 
 ---
 
-### Algorithm (Approach 1)
+### Algorithm 
 1. Input `number`.
 2. Check if `number` is two-digit number or not - `9 < number < 100`.
 3. If `number` is a two-digit number, output 1 (true) else 0 (false).

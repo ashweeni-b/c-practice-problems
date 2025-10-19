@@ -1,13 +1,15 @@
 ## Even or Odd
 
 ### Problem Statement
+
 Take a number (N) from user and output whether it is even or odd.
+
 ---
 
 ### Input
 A single integer N representing the number.
 
-### Output Format 1
+### Output 
 Print 1 if the input number is even or 0 otherwise.
 
 ---

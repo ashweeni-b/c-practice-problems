@@ -17,7 +17,7 @@ Sum = 1265 <br>
 
 ### Algorithm 
 1. Initialize `i` to 5. 
-2. Until `i <= 50>`, calculate sum as, `sum = sum + i`.
+2. Until `i <= 50`, calculate sum as, `sum = sum + i`.
 3. Increment `i` by 1.
 4. Finally print the value of `sum`.
 

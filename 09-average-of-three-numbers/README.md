@@ -1,6 +1,7 @@
 ## Average of three numbers 
 
 ### Problem Statement
+
 Take three numbers from user and output the average of three numbers.
 
 ---
@@ -8,7 +9,7 @@ Take three numbers from user and output the average of three numbers.
 ### Input
 Three integers num1, num2 and num3 representing the three numbers.
 
-### Output Format 1
+### Output 
 Print the floating point average number of the three input numbers.
 
 ---

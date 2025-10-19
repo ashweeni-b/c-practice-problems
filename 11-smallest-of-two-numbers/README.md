@@ -1,6 +1,7 @@
 ## Smallest of two numbers
 
 ### Problem Statement
+
 Take numbers num1 and num2 from user and output the smallest of the two numbers.
 
 ---

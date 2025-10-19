@@ -23,7 +23,7 @@ Output: Entered number is not a natural number <br>
 
 ---
 
-### Algorithm (Approach 1)
+### Algorithm
 1. Input `N`.
 2. Check if `N` is greater than 0 or not - `N > 0`.
 3. If `N` is greater than 0 output is natural number, else output is not natural number.

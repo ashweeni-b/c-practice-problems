@@ -1,6 +1,7 @@
 ## Character checking - digit or not 
 
 ### Problem Statement
+
 Take a character (ch) from user and output whether it is digit or not.
 
 ---

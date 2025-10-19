@@ -8,7 +8,7 @@ Take a character (ch) from user and output whether it is uppercase, lowercase or
 ### Input
 A single character ch representing the character whose case is to be checked.
 
-### Output Format 1
+### Output
 Print uppercase if the entered character is uppercase, lowercase if the entered charactered is lowercase, else print neither lowercase nor uppercase.
 
 ---
