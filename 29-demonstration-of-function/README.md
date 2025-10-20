@@ -1,7 +1,9 @@
 ## Demonstration of Function
 
 ### Problem Statement
-1. Write two functions - one to print "Hello" and second to print "Goodbye"
+1. Write the following functions <br>
+    (a) To print "Hello" and "Goodbye" <br>
+    (b) To calculate sum of the numbers
 2. Write a function that prints Namaste if the user is Indian and Bonjour is the user is French and Hello otherwise.
 
 ---
