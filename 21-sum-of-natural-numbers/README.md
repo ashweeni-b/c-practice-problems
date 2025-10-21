@@ -1,7 +1,8 @@
 ## Sum of n natural numbers
 
 ### Problem Statement
-Take a number (num) from user and output the sum of first n natural numbers and print the numbers in reverse
+Take a number (num) from user and output the sum of first n natural numbers and print the numbers in reverse. <br>
+Also calculate the sum using recursive function. <br>
 
 ---
 
@@ -35,16 +36,6 @@ Output: <br>
 2 <br>
 1 <br>
 Sum of natural numbers: 15 <br>
-
----
-
-### Algorithm 
-1. Input number `num`.
-2. Initialize `sum` to 0.
-3. Initialize `i` to `num`.
-4. Until `i >= 1`, print `i` and add the `i` to `sum`.
-5. Decrement `i` by 1.
-6. Finally print the value of `sum`.
 
 ---
 
