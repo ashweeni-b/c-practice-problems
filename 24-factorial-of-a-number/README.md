@@ -18,7 +18,7 @@ Input:
 Enter a number: 5
 
 Output:
-Factorial: 60
+Factorial: 120
 
 ### Test Case 2
 Input:
@@ -29,18 +29,10 @@ Factorial: 362880 <br>
 
 ---
 
-### Algorithm 
-1. Input number `num`.
-2. Initialize `fact` to 1. 
-3. Initialize `i` to num. 
-4. Until `i >= 1`, calculate factorial of `num` which is, `fact = fact * i`.
-5. Decrement `i` by 1.
-6. Finally print the value of `fact`.
-
----
-
 ### Code
 
-[Factorial of a number](factorial_of_a_number.c)
+[Factorial of a number](factorial_of_a_number.c) <br>
+
+[Factorial of a number using recursion](factorial_using_recursion.c)
 
 ---

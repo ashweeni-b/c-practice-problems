@@ -41,6 +41,8 @@ Sum of natural numbers: 15 <br>
 
 ### Code
 
-[Sum of first n natural numbers](sum_of_natural_numbers.c)
+[Sum of first n natural numbers](sum_of_natural_numbers.c) <br>
+
+[Sum of natural numbers using recursion](sum_using_recursion.c)
 
 ---

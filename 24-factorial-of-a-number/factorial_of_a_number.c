@@ -26,7 +26,7 @@ Input 1:
 Enter a number: 5
 
 Output 1:
-Factorial: 60
+Factorial: 120
 
 Input 2:
 Enter a number: 9
