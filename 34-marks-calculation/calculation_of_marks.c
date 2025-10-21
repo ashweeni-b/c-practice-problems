@@ -29,3 +29,21 @@ int main() {
 float percentageMarks(int science, int math, int sanskrit) {
     return ((science + math + sanskrit) / 300.0) * 100.0;
 }
+
+/*
+Input 1:
+Enter marks in Science: 80
+Enter marks in Math: 90
+Enter marks in Sanskrit: 99
+
+Output 1:
+Percentage obtained = 89.666664
+
+Input 2:
+Enter marks in Science: 70
+Enter marks in Math: 95
+Enter marks in Sanskrit: 80
+
+Output 2:
+Percentage obtained = 81.666664
+*/
