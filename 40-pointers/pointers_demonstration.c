@@ -9,8 +9,8 @@ int main() {
     int **pptr = &ptr;
 
     printf("Age: %d\n", age);
-    printf("Age using pointers: %d\n", *ptr);
-    printf("Age using pointers to pointers: %d\n", **pptr);
+    printf("Age using ptr: %d\n", *ptr);
+    printf("Age using pptr: %d\n", **pptr);
 
     printf("Address of age using age: %p\n", &age);
     printf("Address of age using ptr: %p\n", ptr);
@@ -26,8 +26,8 @@ Input:
 Age: 22
 
 Output:
-Age using pointers: 22
-Age using pointers to pointers: 22
+Age using ptr: 22
+Age using pptr: 22
 Address of age using age: 0061FF18
 Address of age using ptr: 0061FF18
 Address of age using pptr: 0061FF18

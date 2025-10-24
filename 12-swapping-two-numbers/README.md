@@ -43,4 +43,6 @@ Numbers after swapping: 4 2 <br>
 
 [Swapping of two numbers using arithmetic operators](swapping_using_arithmetic_operators.c)
 
+[Swapping of two numbers using pointers](swapping_using_function_calling.c)
+
 ---
