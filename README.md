@@ -35,7 +35,22 @@ Problems are numbered for easy navigation.
 - [25-sum-of-numbers](./25-sum-of-numbers/README.md): Calculates the sum of number
 - [26-operations-on-digits-of-a-number](./26-operations-on-digits-of-a-number/README.md): Calculates the sum and product of the digits of a number
 - [27-pattern-problems](./27-pattern-problems/README.md): Generates star patterns
-- [28-prime-numbers](./28-prime-number/README.md): Checks is a number is prime or composite and prints the prime number within a range.
+- [28-prime-numbers](./28-prime-number/README.md): Checks is a number is prime or composite and prints the prime number within a range
+- [29-function](./29-function/README.md): Demonstration of functions
+- [30-square-of-number](./30-square-of-number/README.md): Calculates the square of a number using library function
+- [31-area-of-polynomials](./31-area-of-polynomials/README.md): Calculates the area of some of the polynomials
+- [32-recursion](./32-recursion/README.md): Demonstration of recursion
+- [33-temperature-conversion](./33-temperature-conversion/README.md): Conversion of temperature from one unit to another
+- [34-marks-calculation](./34-marks-calculation/README.md): Calculation of marks of a student
+- [35-fibonacci-sequence](./35-fibonacci-sequence/README.md): Operations related to Fibonacci sequence
+- [36-square-root-of-a-number](./36-square-root-of-a-number/README.md): Computes the square root of a number
+- [37-hot-cold-decision](./37-hot-cold-decision/README.md): Decision of hot and cold depending upon the temperature
+- [38-power-function](./38-power-function/README.md): Computes power of the function based on the base and exponent given by the user
+- [39-greatest-common-divisor](./39-greatest-common-divisor/README.md): Find the greatest common divisor of two numbers
+- [40-pointers](./40-pointers/README.md): Demonstration of pointers
+- [41-operations-on-numbers](./41-operations-on-numbers/): Perform operations on two numbers
+- [42-maximum-of-two-numbers](./42-maximum-of-two-numbers/README.md): Find the maximum of two numbers
+- [43-printing-alphabets](./43-printing-alphabets/README.md): Prints the english alphabets
 
 ---
 
