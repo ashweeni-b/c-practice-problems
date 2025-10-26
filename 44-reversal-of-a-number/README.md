@@ -15,17 +15,17 @@ Prints the reverse of the number
 
 ### Test Case 1
 Input: <br>
-Enter number: 23452 <br>
+Enter number: 11432 <br>
 
 Output: <br>
-Reverse number = 25432 <br>
+Reverse number = 23411 <br>
 
 ### Test Case 2
 Input: <br>
-Enter number: 2652 <br>
+Enter number: 5654 <br>
 
 Output: <br>
-Reverse number = 2562 <br>
+Reverse number = 4565 <br>
 
 ---
 
@@ -39,6 +39,8 @@ Reverse number = 2562 <br>
 
 ### Code
 
-[Reversal of a Number](reversal_of_a_number.c)
+[Reversal of a Number - Approach 1](reversal_approach_1.c)
+
+[Reversal of a Number - Approach 2](reversal_approach_2.c)
 
 ---

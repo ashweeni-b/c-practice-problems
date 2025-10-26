@@ -1,4 +1,4 @@
-// Problem: Reversal of a number
+// Problem: Reversal of a number - Approach 1
 
 /*
 Logic:
@@ -50,3 +50,19 @@ int reverseNumber(int n) {
 
     return reverse;
 }
+
+/*
+Input 1:
+Enter number: 11432
+
+Output 1:
+Original number: 11432
+Reverse number: 23411
+
+Input 2:
+Enter number: 5654
+
+Output 2:
+Original number: 5654
+Reverse number: 4565
+*/
